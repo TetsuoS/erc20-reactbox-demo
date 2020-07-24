@@ -1,6 +1,6 @@
 pragma solidity ^0.5.4;
 
-import "openzeppelin-solidity/contracts/token/ERC20/ERC20Capped.sol";
+import "../../node_modules/openzeppelin-solidity/contracts/token/ERC20/ERC20Capped.sol";
 
 
 // 10 billion
